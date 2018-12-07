@@ -20,7 +20,9 @@ scattertext(https://github.com/JasonKessler/scattertext)
 
 winemag-data-130k-v2.csv : a csv file with 130k winereviews in 10 columns (description, designation, points, price,
                            province, region_1, region_2, variety, winery)
+
 wine review analysis.ipynb: a jupyter notebook with all the analysis of the dataset
+
 winescatter.html: an interactive graph which shows the frequency of words in the description for wines with <90 and >90 points.
 
 #Conclusion
